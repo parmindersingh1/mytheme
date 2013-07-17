@@ -36,11 +36,7 @@
 	<header id="masthead" class="site-header" role="banner">
 		
                <div id="header_top">
-                 <div id="logo">
-                  <h1>
-                  <a href="/wordpress">Mount Carmel School</a>
-                 </h1>
-                </div><!-- #logo -->
+                
                 <div id="site_title">
                       <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?>
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2></a></h1>
